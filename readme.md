@@ -1,5 +1,6 @@
 # [edilebert.com](https://edilebert.com)
 > The best project you'll ever work on is you
+> 
 > -*Ella Wright*
 
 This repository hosts the code and files for [edilebert.com](https://edilebert.com), my personal website.
