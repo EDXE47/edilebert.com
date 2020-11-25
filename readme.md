@@ -7,6 +7,6 @@ This repository hosts the code and files for [edilebert.com](https://edilebert.c
 
 ## Tools Used
 - **HTML** and **CSS** to design the web page.
-- **Bootstrap** CSS library to build mobile responsiveness.
+- ~~**Bootstrap** framework to structure the page.~~
 - **FontAwesome** and **Google Fonts** for styling the webpage.
 - **GitHub Pages** to host it on the web (includes free SSL certificate).
