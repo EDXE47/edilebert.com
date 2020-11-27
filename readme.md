@@ -10,3 +10,7 @@ This repository hosts the code and files for [edilebert.com](https://edilebert.c
 - ~~**Bootstrap** framework to structure the page.~~
 - **FontAwesome** and **Google Fonts** for styling the webpage.
 - **GitHub Pages** to host it on the web (includes free SSL certificate).
+
+## Current Process
+- **Jekyll** is being investigated to decide integration for blogging.
+- **Blogging** content are being researched.
